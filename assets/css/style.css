@@ -196,7 +196,7 @@ hr{
     left: 0;
     margin: auto;
 
-    transition: backgroun-color .2 linear;
+    transition: background-color .2 linear;
 }
 
 .nav-toggle.active .nav-toggle__item {
@@ -308,7 +308,7 @@ hr{
 }
 
 .section--devices{
-    margin-bottom: 40;
+    margin-bottom: 40px;
     padding-bottom: 0;
     background: url("../images/devices/bg_devices.jpg") center no-repeat;
     background-size: cover;
@@ -941,7 +941,7 @@ hr{
 
 .blog__title {
     margin-bottom: 10px;
-    font-size: 14;
+    font-size: 14px;
     font-weight: 700;
     text-transform: uppercase;
     color: #333;
