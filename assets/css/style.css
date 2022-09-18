@@ -196,7 +196,7 @@ hr{
     left: 0;
     margin: auto;
 
-    transition: background-color .2 linear;
+    transition: background-color .2s linear;
 }
 
 .nav-toggle.active .nav-toggle__item {
